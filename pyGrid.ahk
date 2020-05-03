@@ -1,0 +1,1 @@
+#z::Run C:\Users\<user>\repos\PyGrid\app.py ; path/to/script
