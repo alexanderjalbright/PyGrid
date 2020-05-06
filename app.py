@@ -81,7 +81,7 @@ def on_release(key):
         # Stop listener
         return False
 
-time.sleep(0.5)
+time.sleep(0.2)
 # Collect events until released
 with keyboard.Listener(
         on_press=on_press,
